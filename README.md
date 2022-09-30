@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" alt="Triforce" height="200" width="180" src="https://github.com/Marcelo-Cunha560/Marcelo-Cunha560/blob/main/pngwing.com%20(1).png?raw=true">
+  <img align="center" alt="Triforce" height="220" width="223" src="https://c.tenor.com/S7yo_fqS9GMAAAAM/triforce-ocarina-of-time.gif">
 </div>
 
 ### Ola, sou o Marcelo Cunha.
