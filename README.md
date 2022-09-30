@@ -1,7 +1,5 @@
 ### Ola, sou o Marcelo Cunha.
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning front-end.
 
 <div align="center">
