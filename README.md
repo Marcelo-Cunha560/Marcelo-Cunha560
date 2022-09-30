@@ -1,3 +1,7 @@
+<div align="center">
+<img align="center" alt="Triforce" height="180" width="180" src="https://github.com/Marcelo-Cunha560/Marcelo-Cunha560/blob/main/pngwing.com%20(1).png?raw=true">
+</div>
+
 ### Ola, sou o Marcelo Cunha.
 
 - 🌱 I’m currently learning front-end.
@@ -13,7 +17,6 @@
   <img align="center" alt="MArc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MArc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MArc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
 </div>
 
 ##
