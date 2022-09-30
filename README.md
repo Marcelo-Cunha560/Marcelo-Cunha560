@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="Triforce" height="200" width="180" src="https://github.com/Marcelo-Cunha560/Marcelo-Cunha560/blob/main/pngwing.com%20(1).png?raw=true">
+  <img align="center" alt="Triforce" height="200" width="180" src="https://github.com/Marcelo-Cunha560/Marcelo-Cunha560/blob/main/pngwing.com%20(1).png?raw=true">
 </div>
 
 ### Ola, sou o Marcelo Cunha.
@@ -22,6 +22,6 @@
 ##
 
 <div>
-<a href = "mailto:matheusluc22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://https://www.linkedin.com/in/marcelo-matheus-cunha-lucas-7b953911a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:matheusluc22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcelo-matheus-cunha-lucas-7b953911a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
