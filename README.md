@@ -11,6 +11,11 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Cunha560&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Cunha560&layout=compact&langs_count=168&theme=chartreuse-dark"/>
 </div>
+  
+<div align = "center">
+<a href="https://git.io/streak-stats">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelo-Cunha560&theme=hacker"/> 
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
