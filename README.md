@@ -12,7 +12,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Cunha560&layout=compact&langs_count=168&theme=chartreuse-dark"/>
 </div>
   
-<div align = "center">
+<div style = margim-bottom: "-50px" align = "center">
 <a href="https://git.io/streak-stats">
   <img height="165em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anMarcelo-Cunha560&layout=compact)](https://github.com/Marcelo-Cunha560/github-readme-stats)"/> 
 </div>
@@ -27,6 +27,6 @@
 ##
 
 <div>
-  <a href ="mailto:matheusluc22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelo-matheus-cunha-lucas-7b953911a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href ="mailto:matheusluc22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/marcelo-matheus-cunha-lucas-7b953911a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
