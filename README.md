@@ -4,12 +4,12 @@
   <img align="center" alt="Triforce" height="220" width="250" src="https://github.com/Marcelo-Cunha560/Marcelo-Cunha560/blob/main/pngwing.com%20(1).png?raw=true">
 </div>
 
-- 🌱 I’m currently learning front-end.
-
-<div align="center">
+- 🌱 I’m currently learning front-end.    
+    
+<div style="display: inline_block" align = "center">
   <a href="https://github.com/Marcelo-Cunha560">
-  <img height="150em" src="https://github-readme-stats-beryl.vercel.app/api?username=Marcelo-cunha560&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Cunha560&layout=compact&langs_count=7&theme=color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Cunha560&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Cunha560&layout=compact&langs_count=168&theme=chartreuse-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
