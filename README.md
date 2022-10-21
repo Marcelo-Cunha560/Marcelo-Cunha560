@@ -16,7 +16,7 @@
 <a href="https://git.io/streak-stats">
   <img height="165em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anMarcelo-Cunha560&layout=compact)](https://github.com/Marcelo-Cunha560/github-readme-stats)"/> 
   <a href="https://git.io/streak-stats">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizKuriki&theme=hacker"/> 
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelo-Cunha560&theme=hacker"/> 
 </div>  
 
 <div style="display: inline_block"><br>
