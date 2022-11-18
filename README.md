@@ -4,7 +4,7 @@
   <img align="center" alt="Triforce" height="220" width="250" src="https://github.com/Marcelo-Cunha560/Marcelo-Cunha560/blob/main/pngwing.com%20(1).png?raw=true">
 </div>
 
-- 🌱 I’m currently learning front-end.    
+- 🌱 I’m currently front-end and mobile learning.    
     
 <div style="display: inline_block" align = "center">
   <a href="https://github.com/Marcelo-Cunha560">
